@@ -17,6 +17,23 @@ Catalog Description:
 
 **Textbook**: TBD
 
+**Course Plan**
+| Week  | Topic |
+|-------|-------|
+|1 | Continuous-time signals and systems|
+|2 | Continuous-time linear time invariant (LTI) systems|
+|3 | Continuous-time convolution, continuous-time differential equations|
+|4 | Continuous-time Fourier series expansion|
+|5 | Continuous-time Fourier transform|
+|6 | Laplace transform, analysis of continuous-time LTI systems|
+|7 | Sampling and quantization|
+|8 | Discrete-time signals and systems|
+|9 | Discrete-time LTI systems, discrete-time convolution and difference equations|
+|10 | Discrete-time Fourier series |
+|11 | Discrete-time Fourier transform |
+|12 | z-transform, analysis of discrete-time LTI systems|
+|13 | Telecommunication applications, modulation and demodulation, filtering |
+|14 | Multidimensional signals, image processing applications|
 **Recitations**:
 
 **Exams**: TBD.
