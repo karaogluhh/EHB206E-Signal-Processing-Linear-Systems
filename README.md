@@ -11,16 +11,13 @@ Catalog Description:
 
 **Lectures**: TBD
 
-**Instructors**: TBD  
+**Instructor**: Prof. Dr. Ender Mete Ekşioğlu
+
+**Teaching Assistant**: MSc. Hasan Hüseyin Karaoğlu
 
 **Textbook**: TBD
 
-
-**Course administrator**: TBD.
-
 **Recitations**:
-
-**Undergraduate Assistants**: TBD.
 
 **Exams**: TBD.
 
