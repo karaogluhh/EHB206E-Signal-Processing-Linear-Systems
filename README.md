@@ -25,7 +25,7 @@ Some reference texts:
 
 **Course Plan**
 | Week  | Topic |
-|-------|-------|
+|:-------:|:-------|
 |1 | Continuous-time signals and systems|
 |2 | Continuous-time linear time invariant (LTI) systems|
 |3 | Continuous-time convolution, continuous-time differential equations|
