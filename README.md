@@ -5,8 +5,6 @@
 
 Welcome to EHB206E: Signal Processing and Linear Systems! The Spring 2023 course information, materials, and links are recorded below.
 
-Catalog Description: 
-
 ## Syllabus
 
 **Lectures**: TBD
@@ -15,9 +13,11 @@ Catalog Description:
 
 **Teaching Assistant**: MSc. Hasan Hüseyin Karaoğlu
 
+**Catalog Description**: Introduction to continuous-time (CT) signals and systems; Classification of CT signals and important CT signals; CT system properties; CT linear time invariant (LTI) systems: impulse response, CT convolution integral, differential equations; CT Fourier series expansion (CTFS); CT Fourier transform (CTFT); Relationship between CTFT and CTFS; Laplace transform; Transform domain analysis of CT- LTI systems; Sampling and sampling theorem; Uniform Quantization; Introduction to discrete-time (DT) signals and systems; Classification of DT signals and important DT signals; DT system properties; DT-LTI systems; Time domain representations of DT-LTI systems: impulse response, DT convolution sum, difference equations; DT Fourier series expansion (DTFS); DT Fourier transform (CTFT); Relationship between DTFT and DTFS; ztransform; Transform domain analysis of DT- LTI systems; Telecommunication applications; Modulation and demodulation; Filtering; Multidimensional signals; Image processing applications
+
 **Textbook**: “Signals and Systems”, A. V. Oppenheim, A. S. Willsky and S. H. Nawab. 2nd edition, Prentice Hall, 1997.
 
-Some reference texts:
+**_Some reference texts_**:
 - “Signals and Systems: Analysis Using Transform Methods and MATLAB”, M. J. Roberts, 2nd edition, McGraw-Hill, 2012.
 - “Signals and Systems”, Hwei Hsu, Schaum’s Outline, McGraw-Hill, 2013. 
 - “Sinyaller ve Sistemler”; A. V. Oppenheim, A. S. Willsky ve S. H. Nawab. 2. basımdan çeviri; Akademi Yayıncılık; 2008.
