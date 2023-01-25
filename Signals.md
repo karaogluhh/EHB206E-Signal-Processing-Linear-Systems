@@ -64,3 +64,11 @@ u[n] = \sum_{k = -\infty}^{n} \delta[k]
 				\end{eqnarray}
 				\right.
 ```
+
+### The properties of the Heaviside step functions:
+
+Energy: $E_x=\infty$
+Power: $P_x=1/2$
+Even / Odd?: Neither
+Periodic?: No
+Causal?: Yes
