@@ -15,7 +15,13 @@ Catalog Description:
 
 **Teaching Assistant**: MSc. Hasan Hüseyin Karaoğlu
 
-**Textbook**: TBD
+**Textbook**: “Signals and Systems”, A. V. Oppenheim, A. S. Willsky and S. H. Nawab. 2nd edition, Prentice Hall, 1997.
+
+Some reference texts:
+- “Signals and Systems: Analysis Using Transform Methods and MATLAB”, M. J. Roberts, 2nd edition, McGraw-Hill, 2012.
+- “Signals and Systems”, Hwei Hsu, Schaum’s Outline, McGraw-Hill, 2013. 
+- “Sinyaller ve Sistemler”; A. V. Oppenheim, A. S. Willsky ve S. H. Nawab. 2. basımdan çeviri; Akademi Yayıncılık; 2008.
+- “Signals and Systems”, Simon Haykin and Barry van Veen. John Wiley and Sons, 2002.
 
 **Course Plan**
 | Week  | Topic |
@@ -34,6 +40,7 @@ Catalog Description:
 |12 | z-transform, analysis of discrete-time LTI systems|
 |13 | Telecommunication applications, modulation and demodulation, filtering |
 |14 | Multidimensional signals, image processing applications|
+
 **Recitations**:
 
 **Exams**: TBD.
