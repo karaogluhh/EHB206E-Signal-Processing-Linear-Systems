@@ -71,3 +71,8 @@ u[n] = \sum_{k = -\infty}^{n} \delta[k]
 - Even / Odd?: Neither
 - Periodic?: No
 - Causal?: Yes
+
+|Property|Explanation|
+|:-------|:----------|
+|Energy| $E_x=\infty$|
+|Power |$P_x=1/2$|
