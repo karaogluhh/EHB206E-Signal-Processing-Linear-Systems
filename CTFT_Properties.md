@@ -1,6 +1,6 @@
 ```math
 \begin{align}
-		& \textbf{Property}                &\qquad & \textbf{Time domain} 		&\qquad & \textbf{CTFT domain} \\
+		\hline & \textbf{Property}                &\qquad & \textbf{Time domain} 		&\qquad & \textbf{CTFT domain} \\ \hline
 		\\[.05em]
 		& \textrm{Linearity}               &\qquad &  A x(t) + B y(t) 			&\qquad &  A X(\Omega) + B Y(\Omega) \\
 		\\[.05em]
