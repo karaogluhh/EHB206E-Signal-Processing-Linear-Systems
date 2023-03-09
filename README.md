@@ -1,7 +1,5 @@
-<h2 align="center">
-  ITU EHB206E, Spring 2023<br />
-  Signal Processing and Linear Systems
-</h2> 
+# ITU EEF 206E Signal Processing and Linear Systems Spring 2023  
+![250yil_logo__laci-low_27](https://user-images.githubusercontent.com/36886505/224167144-6a00be90-e03e-43fb-9066-d953e0897a40.png)
 
 Welcome to EHB206E: Signal Processing and Linear Systems! The Spring 2023 course information, materials, and links are recorded below.
 
